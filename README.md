@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Software Engineer with +3 years experience to backend development using Django, specializing in designing and<br>implementing scalable web applications and RESTful APIs. Highly skilled in Django’s advanced functionalities.
+A Software Developer with +3 years experience Python and Django, specializing in designing and<br>implementing scalable web applications and RESTful APIs.
 
 
 ## 🌐 Socials:
