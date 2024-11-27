@@ -1,5 +1,9 @@
 # 💫 About Me:
-A Software Developer with +3 years experience Python and Django, specializing in designing and<br>implementing scalable web applications and RESTful APIs.
+Python Developer with over 3 years of experience specializing in Django-based backend development. I have a proven track record in building scalable web applications, creating RESTful APIs.
+
+My expertise extends to web design using HTML, CSS, JavaScript, along with strong proficiency in Natural Language Processing (NLP) and Artificial Intelligence (AI) model development. I am passionate about delivering robust and efficient solutions, leveraging technologies like Docker, PostgreSQL, and Django REST Framework to build fault-tolerant systems.
+
+In addition to my technical capabilities, I am a lifelong learner, currently exploring advanced concepts in frontend frameworks and AI-driven applications, ensuring I stay ahead in the ever-evolving tech landscape. My goal is to contribute to impactful projects while continuously expanding my skill set in a collaborative environment.
 
 
 ## 🌐 Socials:
