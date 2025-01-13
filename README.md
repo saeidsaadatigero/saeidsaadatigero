@@ -1,6 +1,8 @@
 # 💫 About Me:
-🐍 I am a skilled Python Developer with a strong focus on Django-based backend development. I have a proven track record in building scalable web applications, creating RESTful APIs.<br>🛠️My expertise extends to web design using HTML, CSS, JavaScript, along with strong proficiency in Natural Language Processing (NLP) and Artificial Intelligence (AI) model development. I am passionate about delivering robust and efficient solutions, leveraging technologies like Docker, PostgreSQL, and Django REST Framework to build fault-tolerant systems.<br>🌱In addition to my technical capabilities, I am a lifelong learner, currently exploring advanced concepts in frontend frameworks and AI-driven applications, ensuring I stay ahead in the ever-evolving tech landscape. My goal is to contribute to impactful projects while continuously expanding my skill set in a collaborative environment.<br>
-
+🛠️ Senior IT Engineer with 5 years of technical expertise in hardware, software, and network 
+maintenance for computer and mobile systems. Additionally, over 2 years of experience in 
+software development, proficient in Python, Django, and web design using WordPress, HTML, 
+CSS, JS, and Bootstrap. Familiar with AI libraries and APIs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saeid-saadatigero/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22762251/saeid-saadatigero) 
