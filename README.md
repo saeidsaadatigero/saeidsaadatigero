@@ -6,10 +6,10 @@
 
 ### 🛠️ Professional Expertise
 
-* [cite_start]**Backend Ecosystem:** Expert in **Django & DRF**, designing microservices for financial platforms, and managing high-traffic APIs with **Redis, Celery, and PostgreSQL**[cite: 19, 25].
-* [cite_start]**Artificial Intelligence:** Deep experience in **NLP** (Transformers, LLMs) and **Computer Vision** (YOLO, OCR)[cite: 28, 29, 32].
-* [cite_start]**Algorithmic Trading:** Developing autonomous trading bots (RL/PPO) for **XAUUSD** and integrating with **MT5 API**[cite: 46, 90].
-* [cite_start]**DevOps:** Streamlining deployments using **Docker, CI/CD pipelines, and Linux (VPS)**[cite: 25, 105].
+* **Backend Ecosystem:** Expert in **Django & DRF**, designing microservices for financial platforms, and managing high-traffic APIs with **Redis, Celery, and PostgreSQL**[cite: 19, 25].
+* **Artificial Intelligence:** Deep experience in **NLP** (Transformers, LLMs) and **Computer Vision** (YOLO, OCR)[cite: 28, 29, 32].
+* **Algorithmic Trading:** Developing autonomous trading bots (RL/PPO) for **XAUUSD** and integrating with **MT5 API**[cite: 46, 90].
+* **DevOps:** Streamlining deployments using **Docker, CI/CD pipelines, and Linux (VPS)**[cite: 25, 105].
 
 ---
 
@@ -17,15 +17,15 @@
 
 #### 🦁 [Persian Lion Bot](https://github.com/saeidsaadatigero/Persian-Lion-Bot)
 * **Tech:** Python, Reinforcement Learning (PPO), MT5 API.
-* [cite_start]An automated trading system with an **AI filter** for trade approval, optimized for the gold market[cite: 45, 46].
+* An automated trading system with an **AI filter** for trade approval, optimized for the gold market[cite: 45, 46].
 
 #### 🔍 [Real-time ANPR System](https://github.com/saeidsaadatigero/car_plate_recognition)
 * **Tech:** YOLOv3, Tesseract OCR, OpenCV.
-* [cite_start]A high-speed Iranian license plate recognition system capable of processing real-time IP camera streams[cite: 28, 47].
+* A high-speed Iranian license plate recognition system capable of processing real-time IP camera streams[cite: 28, 47].
 
 #### 💬 [GSM GPT Integration](https://github.com/saeidsaadatigero/Chatbot-Gemini)
 * **Tech:** Django, Gemini API, Hugging Face.
-* [cite_start]Developed a multi-language smart chatbot with CSRF security and message filtering mechanisms[cite: 29, 30].
+* Developed a multi-language smart chatbot with CSRF security and message filtering mechanisms[cite: 29, 30].
 
 ---
 
