@@ -21,7 +21,7 @@
 * **Tech:** YOLOv3, Tesseract OCR, OpenCV.
 * A high-speed Iranian license plate recognition system capable of processing real-time IP camera streams.
 
-#### 💬 [GSM GPT Integration](https://github.com/saeidsaadatigero/Chatbot-Gemini)
+#### 💬 [Chatbot-Gemini](https://github.com/saeidsaadatigero/Chatbot-Gemini)
 * **Tech:** Django, Gemini API, Hugging Face.
 * Developed a multi-language smart chatbot with CSRF security and message filtering mechanisms.
 
