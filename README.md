@@ -1,79 +1,53 @@
-# 💫 About Me:
-👋 Hi! I'm Saeid, a Python developer focusing on **Artificial Intelligence, Machine Learning, and Computer Vision**.  
-💡 I love project-based learning, tackling real-world challenges, and building creative solutions.  
-🚀 Fast learner, collaborative team player, and always striving to grow my skills and deliver high-quality work.  
-🔥 Passionate about AI applications, backend development, and data-driven projects.  
+# 🚀 Senior Backend Developer | AI & Algorithmic Trading Specialist
+
+👋 Hi, I'm **Saeid Saadatigero**, a results-driven Engineer based in Iran with **3+ years of experience** building scalable web systems and production-grade AI models[cite: 16]. I specialize in bridging the gap between complex AI research and robust Backend architecture.
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeid-saadatigero/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saeidsaadatigero)
+### 🛠️ Professional Expertise
+
+* [cite_start]**Backend Ecosystem:** Expert in **Django & DRF**, designing microservices for financial platforms, and managing high-traffic APIs with **Redis, Celery, and PostgreSQL**[cite: 19, 25].
+* [cite_start]**Artificial Intelligence:** Deep experience in **NLP** (Transformers, LLMs) and **Computer Vision** (YOLO, OCR)[cite: 28, 29, 32].
+* [cite_start]**Algorithmic Trading:** Developing autonomous trading bots (RL/PPO) for **XAUUSD** and integrating with **MT5 API**[cite: 46, 90].
+* [cite_start]**DevOps:** Streamlining deployments using **Docker, CI/CD pipelines, and Linux (VPS)**[cite: 25, 105].
 
 ---
 
-## 💻 Tech Stack  
+### 🌟 Featured Projects
 
-**Languages & Core**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
+#### 🦁 [Persian Lion Bot](https://github.com/saeidsaadatigero/Persian-Lion-Bot)
+* **Tech:** Python, Reinforcement Learning (PPO), MT5 API.
+* [cite_start]An automated trading system with an **AI filter** for trade approval, optimized for the gold market[cite: 45, 46].
 
-**AI / ML / DL**  
-![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)  
+#### 🔍 [Real-time ANPR System](https://github.com/saeidsaadatigero/car_plate_recognition)
+* **Tech:** YOLOv3, Tesseract OCR, OpenCV.
+* [cite_start]A high-speed Iranian license plate recognition system capable of processing real-time IP camera streams[cite: 28, 47].
 
-**Data Visualization**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=plotly&logoColor=blue)  
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  
-
-**Backend & Databases**  
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![DjangoREST](https://img.shields.io/badge/DRF-%23ff1709.svg?style=for-the-badge&logo=django&logoColor=white)  
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
-**Tools & DevOps**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+#### 💬 [GSM GPT Integration](https://github.com/saeidsaadatigero/Chatbot-Gemini)
+* **Tech:** Django, Gemini API, Hugging Face.
+* [cite_start]Developed a multi-language smart chatbot with CSRF security and message filtering mechanisms[cite: 29, 30].
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saeidsaadatigero&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=saeidsaadatigero&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saeidsaadatigero&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 💻 Tech Stack  
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Expert), SQL, JavaScript |
+| **Backend** | Django, DRF, FastAPI, Celery, Redis, RabbitMQ |
+| **AI / ML** | PyTorch, TensorFlow, Scikit-learn, Hugging Face, OpenCV |
+| **Trading** | MetaTrader 5, MQL5, Financial Risk Management |
+| **Infrastructure** | Docker, Gitlab CI/CD, Nginx, Linux, PostgreSQL |
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saeidsaadatigero&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+### 📊 2026 Growth Strategy
+This year, I am focusing on **Open Source Contributions**. My goal is to move beyond personal repos and contribute to core frameworks like Django or popular AI libraries. 
+*Check my PRs to see how I collaborate!*
 
 ---
 
-## 🚀 Featured Projects
-- 🔍 **[AI Image Classifier](#)** – Image classification with PyTorch & Transfer Learning  
-- 📊 **[Data Visualization Dashboard](#)** – Interactive dashboards using Plotly & Dash  
-- 🤖 **[Chatbot with NLP](#)** – Conversational AI using Transformers  
-- 🎥 **[Computer Vision Toolkit](#)** – OpenCV utilities for image & video processing  
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=saeidsaadatigero&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=saeidsaadatigero&icon=10&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeid-saadatigero/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saeidsaadatigero@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Location-Mashhad/Neyshabur-green)](https://github.com/saeidsaadatigero)
