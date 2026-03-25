@@ -21,9 +21,9 @@
 * **Tech:** YOLOv3, Tesseract OCR, OpenCV.
 * A high-speed Iranian license plate recognition system capable of processing real-time IP camera streams.
 
-#### 💬 [Chatbot-Gemini](https://github.com/saeidsaadatigero/Chatbot-Gemini)
-* **Tech:** Django, Gemini API, Hugging Face.
-* Developed a multi-language smart chatbot with CSRF security and message filtering mechanisms.
+#### 💬 [DigiProID](https://github.com/saeidsaadatigero/DigiProID)
+* **Tech:** Django, DRF ,Swagger, Postgresql.
+* DigiProID is a high-performance, automated e-commerce platform specialized in selling Apple IDs.
 
 ---
 
