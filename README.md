@@ -1,13 +1,23 @@
 # README.md
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Saeid%20Saadatigero&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner">
-  
-  <br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Senior+Python+%2F+Django+Engineer;AI+%26+Algorithmic+Trading+Specialist;System+Architecture+%26+Automation+Expert" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=300&section=header&text=Saeid%20Saadatigero&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Senior%20Python%20%2F%20Django%20Engineer%20%7C%20AI%20%26%20Algorithmic%20Trading%20Specialist%20%7C%20System%20Architecture%20%26%20Automation%20Expert&descAlignY=60&descAlign=80" alt="Header Banner with Tech Stack">
+
+  <p align="center">
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" title="Django"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow"/></code>
+    <code><img height="40" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" title="Hugging Face"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx"/></code>
+    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/></code>
+  </p>
 </div>
 
 ---
@@ -28,25 +38,9 @@ I am a results-driven **Senior Software Engineer** based in Iran with **3+ years
 | :--- | :--- |
 | 🌐 **Backend Engineering** | **Python, Django, DRF, FastAPI:** Building RESTful microservices, custom auth protocols, and secure API bridges. |
 | ⚙️ **Distributed Systems** | **Celery, Redis, RabbitMQ:** Handling heavy background tasks, asynchronous scheduling (Celery Beat), and state caching. |
-| 🤖 **AI & Machine Learning** | **NLP (LLMs) & CV (YOLO, OCR):** Deploying computer vision pipelines and integrating local/remote language models. |
+| 🤖 **AI & Machine Learning** | **NLP (LLMs) & CV (YOLO, OCR):** Deploying computer vision pipelines (PyTorch, TensorFlow) and integrating local/remote language models. |
 | 📈 **Algorithmic Trading** | **RL/PPO, MT5 API, MQL5:** Developing autonomous trading agents optimized for XAUUSD with strict risk management. |
 | 🌩️ **DevOps & Infrastructure** | **Docker, Linux (Ubuntu), Nginx, Gitlab CI/CD:** Server provisioning, reverse proxy configurations, and automated deployments. |
-
----
-
-### 💻 Tech Stack Panorama
-
-<div align="center">
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" title="Django"/></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis"/></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx"/></code>
-  <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/></code>
-</div>
 
 ---
 
