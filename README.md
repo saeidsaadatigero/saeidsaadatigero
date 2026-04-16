@@ -1,7 +1,14 @@
 # README.md
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=300&section=header&text=Saeid%20Saadatigero&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Senior%20Python%20%2F%20Django%20Engineer%20%7C%20AI%20%26%20Algorithmic%20Trading%20Specialist%20%7C%20System%20Architecture%20%26%20Automation%20Expert&descAlignY=60&descAlign=80" alt="Header Banner with Tech Stack">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Saeid%20Saadatigero&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner">
+  
+  <br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Senior+Python+%2F+Django+Engineer;AI+%26+Algorithmic+Trading+Specialist;System+Architecture+%26+Automation+Expert" alt="Typing SVG" />
+  </a>
+</div>
 
   <p align="center">
     <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
