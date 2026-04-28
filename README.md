@@ -47,7 +47,7 @@ I am a results-driven **Senior Software Engineer & AI Architect** based in Iran 
       <code>Python</code> <code>MT5 API</code> <code>LLM Integration</code> <code>OOP</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🍎 <a href="https://github.com/saeidsaadatigero/DigiProID">DigiProID Architecture</a></h4>
+      <h4>🍎 <a href="https://github.com/GSMGPT/apple-ID">DigiProID Architecture</a></h4>
       <p>High-performance e-commerce engine. Features Celery-driven async data syncing, secure API Forwarding (Bridge), and complex international payment integrations (WebMoney/Crypto).</p>
       <code>Django</code> <code>Celery</code> <code>FastAPI</code> <code>PostgreSQL</code>
     </td>
