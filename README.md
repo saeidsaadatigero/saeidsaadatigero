@@ -8,9 +8,6 @@
   </a>
 </div>
 
-  <p align="center">
-    <img width="640" height="640" alt="000" src="https://github.com/user-attachments/assets/32f57948-989b-4dbd-ba69-7a28d758927e" />
-  </p>
 </div>
 
 ---
