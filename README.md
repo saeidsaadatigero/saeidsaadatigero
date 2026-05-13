@@ -15,10 +15,6 @@ Results-driven **Senior Software Engineer** with **3+ years of production experi
 
 I specialize in **Clean Architecture**, **High-Performance Automation**, and turning complex AI research into robust production systems.
 
-- 📍 **Location:** Nishabur, Iran
-- 📧 **Email:** saeidsaadatigero@gmail.com
-- 📞 **Phone:** +98 939 551 1159
-
 ---
 
 ### 🛠️ Core Skills & Technologies
