@@ -1,9 +1,7 @@
 <div align="center">
   <h1>
     <span style="color:#00C853;">Saeid Saadatigero</span>
-  </h1>
-  <h3>Senior Backend Engineer & AI Architect | Algorithmic Trading Specialist</h3>
-  
+  </h1>  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=720&lines=Senior+Python+%2F+Django+Architect;AI+%26+LLM+Integration+Specialist;Algorithmic+Trading+%26+Quantitative+Engineer;Automation+%26+Computer+Vision+Expert" alt="Typing SVG" />
   </a>
