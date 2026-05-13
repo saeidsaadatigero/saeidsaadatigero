@@ -1,104 +1,117 @@
-# README.md
-
-<div align="center">  
-  <br>
+<div align="center">
+  <h1>
+    <span style="color:#00C853;">Saeid Saadatigero</span>
+  </h1>
+  <h3>Senior Backend Engineer & AI Architect | Algorithmic Trading Specialist</h3>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Senior+Python+%2F+Django+Architect;AI+%26+Algorithmic+Trading+Specialist;Computer+Vision+%26+NLP+Engineer;Expert+in+Concurrency+%26+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=720&lines=Senior+Python+%2F+Django+Architect;AI+%26+LLM+Integration+Specialist;Algorithmic+Trading+%26+Quantitative+Engineer;Automation+%26+Computer+Vision+Expert" alt="Typing SVG" />
   </a>
-</div>
-
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I am a results-driven **Senior Software Engineer & AI Architect** based in Iran with **3+ years of production experience** architecting scalable web systems and deploying robust Machine Learning models. My core philosophy revolves around **Clean Architecture, Concurrency Management, and Workflow Automation**. I specialize in bridging the gap between complex AI/ML research and resilient, production-grade backend infrastructure.
+Results-driven **Senior Software Engineer** with **3+ years of production experience** in building scalable backend systems and intelligent AI-powered solutions.
 
-- 🏗️ **Current Focus:** Architecting High-Frequency Trading Bots, LLM integrations, & Distributed Async Systems.
-- ⚡ **Superpower:** Idempotency & Race Condition Management (`select_for_update`), bypassing complex network topologies, and AI-driven automation (Captcha Bypass, ANPR).
-- 🧠 **Mindset:** "Make it work, make it right, make it fast, then automate it."
+I specialize in **Clean Architecture**, **High-Performance Automation**, and turning complex AI research into robust production systems.
 
----
-
-### 🛠️ Core Capabilities & Architecture
-
-| Domain | Expertise & Technologies |
-| :--- | :--- |
-| 🌐 **Backend Engineering** | **Python, Django, DRF, FastAPI:** Building RESTful microservices, secure API bridges, JWT auth, and strict database concurrency locking. |
-| ⚙️ **Distributed Systems** | **Celery, Redis, PostgreSQL:** Handling heavy background tasks, asynchronous AI model inference, and robust state caching. |
-| 🤖 **AI & Deep Learning** | **NLP & Computer Vision:** Deploying YOLOv3 & Tesseract OCR for ANPR, Speech-to-Text, and NLP Pipelines (Transformers/Hugging Face). |
-| 📈 **Algorithmic Trading** | **RL/PPO, MT5 API, LLM Agents:** Developing autonomous trading agents optimized for Forex/Indices with DeepSeek/OpenAI logic filters. |
-| 🌩️ **DevOps & Infrastructure** | **Docker, Ubuntu, Nginx, Gunicorn, GitLab:** Server provisioning, reverse proxy configurations, and automated CI/CD deployments. |
+- 📍 **Location:** Nishabur, Iran
+- 📧 **Email:** saeidsaadatigero@gmail.com
+- 📞 **Phone:** +98 939 551 1159
 
 ---
 
-### 🌟 Featured Engineering Projects
+### 🛠️ Core Skills & Technologies
 
-<table bordercolor="#30363d">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🦁 <a href="https://github.com/saeidsaadatigero/PersianLionTrader">Persian Lion AI Trader</a></h4>
-      <p>An enterprise-grade, multi-asset trading engine for MT5. Integrates <b>Al Brooks Price Action</b> with a non-blocking <b>DeepSeek/OpenAI LLM</b> acting as a Chief Risk Officer (CRO) to validate trade context dynamically.</p>
-      <code>Python</code> <code>MT5 API</code> <code>LLM Integration</code> <code>OOP</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🍎 <a href="https://github.com/GSMGPT/apple-ID">DigiProID Architecture</a></h4>
-      <p>High-performance e-commerce engine. Features Celery-driven async data syncing, secure API Forwarding (Bridge), and complex international payment integrations (WebMoney/Crypto).</p>
-      <code>Django</code> <code>Celery</code> <code>FastAPI</code> <code>PostgreSQL</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔍 <a href="https://github.com/saeidsaadatigero/car_plate_recognition">Real-time ANPR & Bypass Systems</a></h4>
-      <p>High-speed Iranian license plate recognition and Captcha Bypass systems capable of processing real-time video streams using deep learning models.</p>
-      <code>YOLOv3</code> <code>Tesseract OCR</code> <code>PyTorch</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Applied AI & Reinforcement Learning</h4>
-      <p>Developing Custom NLP Pipelines (Transformers) for Speech-to-Text and experimenting with RL (PPO Agents) for complex decision-making environments.</p>
-      <code>Hugging Face</code> <code>PPO</code> <code>Transformers</code>
-    </td>
-  </tr>
-</table>
+#### **Backend Development**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-092E20?logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
+
+#### **Artificial Intelligence & Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-4285F4?logo=openai&logoColor=white)
+
+#### **Computer Vision & Audio Processing**
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6F00?logo=opencv&logoColor=white)
+![Speech Processing](https://img.shields.io/badge/Speech%20Processing-00B4FF?logo=audio&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00B4FF?logo=robot&logoColor=white)
+
+#### **Databases & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+
+#### **Trading & Quantitative**
+![MetaTrader5](https://img.shields.io/badge/MetaTrader_5-000000?logo=metatrader&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/PPO-FF6F00?logo=reinforcement-learning&logoColor=white)
+
+---
+
+### 🌟 Featured Projects
+
+**🍎 [Apple ID Automation Bot](https://github.com/saeidsaadatigero/apple-account-automation-bot)**  
+Intelligent automation tool for Apple ID login, security questions handling, and account management.
+
+**🦁 [Persian Lion AI Trader](https://github.com/saeidsaadatigero/PersianLionTrader)**  
+Advanced algorithmic trading engine with LLM-powered risk management for MetaTrader 5.
+
+**🔍 [Real-time ANPR System](https://github.com/saeidsaadatigero/car_plate_recognition)**  
+High-accuracy Iranian license plate recognition using YOLOv3 + Tesseract OCR.
+
+**🌐 [FastAPI Secure Proxy Bridge](https://github.com/saeidsaadatigero/fastAPI_Bridge_secure_proxy_service)**  
+Production-grade transparent reverse proxy with API key authentication.
 
 ---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saeidsaadatigero&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Saeid's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeidsaadatigero&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=saeidsaadatigero&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/saeidsaadatigero?cardType=level&preferLogin=false&theme=dark" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saeidsaadatigero&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="100%"/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=saeidsaadatigero&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 
 ---
 
-### 🤝 Connect & Collaborate
+### 🤝 Connect With Me
 
 <div align="center">
-    <p align="center">
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" title="Django"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow"/></code>
-    <code><img height="40" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" title="Hugging Face"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" title="Ubuntu"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git"/></code>
-    <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab"/></code>
-    <code><img height="40" src="https://img.shields.io/badge/MetaTrader_5-000000?style=for-the-badge&logo=meta&logoColor=white" alt="MetaTrader 5" title="MetaTrader 5"/></code>
-    <code><img height="40" src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" title="Bitcoin"/></code>
+  <a href="https://www.linkedin.com/in/saeid-saadatigero/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:saeidsaadatigero@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
-<div align="center">
-    <p align="center">      
-  <a href="https://www.linkedin.com/in/saeid-saadatigero/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:saeidsaadatigero@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    </p>
-</div>
+
+---
+
+**"Clean Architecture • Intelligent Automation • Reliable Systems"**
