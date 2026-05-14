@@ -1,13 +1,29 @@
 <div align="center">
-  <h1>
-    <span style="color:#00C853;">Saeid Saadatigero</span>
-  </h1>  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=720&lines=Senior+Python+%2F+Django+Architect;AI+%26+LLM+Integration+Specialist;Algorithmic+Trading+%26+Quantitative+Engineer;Automation+%26+Computer+Vision+Expert" alt="Typing SVG" />
-  </a>
-</div>
 
----
+  <!-- Static Name -->
+  <h1 style="color: #00C853; margin-bottom: 10px; font-size: 2.8rem;">
+    Saeid Saadatigero
+  </h1>
+
+  <!-- Typing Subtitles -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&color=00C3FF&center=true&vCenter=true&width=720&lines=Senior+Backend+Engineer+%26+AI+Architect" alt="Title" />
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=23&duration=4000&color=AAAAAA&center=true&vCenter=true&width=680&lines=Algorithmic+Trading+Specialist+%7C+Automation+Expert" alt="Subtitle" />
+  </p>
+
+  <br>
+
+<!-- Skill Icons - مرتب و تمیز -->
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,postgresql,mysql,docker,linux,git,github,opencv,pytorch,tensorflow,postman&theme=dark&perline=9" />
+</p>
+
+
+
+</div>
 
 ### 🚀 About Me
 
