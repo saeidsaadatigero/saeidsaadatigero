@@ -13,16 +13,12 @@
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=23&duration=4000&color=AAAAAA&center=true&vCenter=true&width=680&lines=Algorithmic+Trading+Specialist+%7C+Automation+Expert" alt="Subtitle" />
   </p>
-
-  <br>
-
-<!-- Skill Icons - مرتب و تمیز -->
+  <!-- Skill Icons - مرتب و تمیز -->
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,postgresql,mysql,docker,linux,git,github,opencv,pytorch,tensorflow,postman&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,postgresql,mongodb,docker,linux,nginx,git,gitlab,github,opencv,pytorch,tensorflow,postman,bootstrap&theme=dark&perline=9" />
 </p>
 
-
-
+  <br>
 </div>
 
 ### 🚀 About Me
