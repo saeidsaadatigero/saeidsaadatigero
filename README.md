@@ -15,7 +15,7 @@
   </p>
   <!-- Skill Icons - مرتب و تمیز -->
   <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,postgresql,mongodb,docker,linux,nginx,git,gitlab,github,opencv,pytorch,tensorflow,postman,bootstrap&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,postgresql,mongodb,docker,linux,nginx,git,gitlab,github,opencv,pytorch,tensorflow,postman,bootstrap,html,css,js,tailwind&theme=dark&perline=9" />
 </p>
 
   <br>
