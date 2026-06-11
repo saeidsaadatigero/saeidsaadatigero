@@ -73,7 +73,7 @@ I specialize in **Clean Architecture**, **High-Performance Automation**, and tur
 **🍎 [Apple ID Automation Bot](https://github.com/saeidsaadatigero/apple-account-automation-bot)**  
 Intelligent automation tool for Apple ID login, security questions handling, and account management.
 
-**🦁 [Persian Lion AI Trader](https://github.com/saeidsaadatigero/PersianLionTrader)**  
+**🦁 [Persian Lion AI Trader](https://github.com/saeidsaadatigero/Persian_Lion_Ai_Trader)**  
 Advanced algorithmic trading engine with LLM-powered risk management for MetaTrader 5.
 
 **🔍 [Real-time ANPR System](https://github.com/saeidsaadatigero/car_plate_recognition)**  
