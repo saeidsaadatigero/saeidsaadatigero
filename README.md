@@ -23,7 +23,9 @@
 
 ### 🚀 About Me
 
-Results-driven AI Engineer and Senior Python Backend Developer with 3+ years of production experience in architecting scalable web applications using Django (DRF) and designing custom Agentic AI systems. Specialist in building lightweight Multi-Agent architectures with LLM orchestration (DeepSeek, OpenAI) for real-time decision-making in financial markets. Expert in algorithmic trading engine development, structured prompt engineering, and NLP integration. A strategic thinker (ENTJ) adept at solving complex architectural bottlenecks, optimizing database concurrency, and deploying high-availability pipelines in fast-paced Agile environments.
+Results-driven AI Engineer and Senior Python Backend Developer with 3+ years of production experience in architecting scalable web applications using Django (DRF) and designing custom Agentic AI systems.
+Specialist in building lightweight Multi-Agent architectures with LLM orchestration (DeepSeek, OpenAI) for real-time decision-making in financial markets.
+Expert in algorithmic trading engine development, structured prompt engineering, and NLP integration. A strategic thinker (ENTJ) adept at solving complex architectural bottlenecks, optimizing database concurrency, and deploying high-availability pipelines in fast-paced Agile environments.
 
 ---
 
