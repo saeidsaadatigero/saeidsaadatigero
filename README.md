@@ -73,7 +73,7 @@ Expert in algorithmic trading engine development, structured prompt engineering,
 **🍎 [Apple ID Personalization Platform](https://github.com/saeidsaadatigero/Apple-ID-Personalization-Platform/blob/main/README.md)**  
 Intelligent automation tool for Apple ID login, security questions handling, and account management.
 
-**🦁 [Persian Lion AI Trader](https://github.com/saeidsaadatigero/Persian_Lion_Ai_Trader)**  
+**🦁 [Persian Lion AI Trader](https://github.com/saeidsaadatigero/PersianLionTrader)**  
 Advanced algorithmic trading engine with LLM-powered risk management for MetaTrader 5.
 
 **🔍 [Real-time ANPR System](https://github.com/saeidsaadatigero/car_plate_recognition)**  
