@@ -23,9 +23,7 @@
 
 ### 🚀 About Me
 
-Results-driven AI Engineer and Senior Python Backend Developer with 3+ years of production experience in architecting scalable web applications using Django (DRF) and designing custom Agentic AI systems.
-Specialist in building lightweight Multi-Agent architectures with LLM orchestration (DeepSeek, OpenAI) for real-time decision-making in financial markets.
-Expert in algorithmic trading engine development, structured prompt engineering, and NLP integration. A strategic thinker (ENTJ) adept at solving complex architectural bottlenecks, optimizing database concurrency, and deploying high-availability pipelines in fast-paced Agile environments.
+Python backend developer focused on Django/DRF, FastAPI and AI. I work AI-assisted (Claude, Codex, Gemini CLI, DeepSeek): I design the architecture, then review, test, debug and refactor the generated code. I shipped a production Django store and automation bot on two Ubuntu servers (174+ real orders, 63+ tests, Celery/Redis, PostgreSQL, Nginx) and have built a multi-agent trading bot over 1.5 years. I have NLP/LLM project experience but no production AI product yet. Looking for a team that embraces AI tooling and where I can grow in Python backend and AI.
 
 ---
 
