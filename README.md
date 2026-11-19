@@ -7,7 +7,7 @@
 
   <!-- Typing Subtitles -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&color=00C3FF&center=true&vCenter=true&width=720&lines=Senior+Backend+Engineer+%26+AI+Architect" alt="Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&color=00C3FF&center=true&vCenter=true&width=720&lines=Backend+Engineer+%26+AI+Architect" alt="Title" />
   </p>
 
   <p align="center">
